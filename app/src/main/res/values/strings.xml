@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DatingMotive</string>
+    <string name="tryst_title_hint">Enter a title for the date.</string>
+    <string name="tryst_title_label">Title</string>
+    <string name="tryst_details_label">Details</string>
+    <string name="tryst_taken_label">Taken</string>
+    <string name="date_picker_title">Day for your Date:</string>
+    <string name="new_tryst">New Date</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d trysts</string>
+    <string name="tryst_friend_text">Choose Friend</string>
+    <string name="tryst_proposition_text">Send Proposition</string>
+    <string name="tryst_proposition">%1$s!
+        The date is happening on %2$s. %3$s, and %4$s
+    </string>
+    <string name="tryst_proposition_taken">The date is taken</string>
+    <string name="tryst_proposition_not_taken">The date is still available</string>
+    <string name="tryst_proposition_no_friend">I would like you to join me!</string>
+    <string name="tryst_proposition_friend">the friend is %s.</string>
+    <string name="tryst_proposition_subject">DatingPool Proposition</string>
+    <string name="send_proposition">Send proposition via</string>
+</resources>

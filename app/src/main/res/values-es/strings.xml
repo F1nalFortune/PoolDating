@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CitasPiscina</string>
+    <string name="tryst_title_hint">Introduzca un titulo para la cita</string>
+    <string name="tryst_title_label">Titulo</string>
+    <string name="tryst_details_label">Detalles</string>
+    <string name="tryst_taken_label">Tomada</string>
+    <string name="date_picker_title">Dia para tu cita</string>
+    <string name="new_tryst">Cita Nueva</string>
+    <string name="subtitle_format">%1$d trysts</string>
+    <string name="tryst_friend_text">Escoja Amigo/a</string>
+    <string name="tryst_proposition_text">Mande la proposicion</string>
+    <string name="tryst_proposition">%1$s!
+        The date is happening on %2$s. %3$s, and %4$s
+    </string>
+    <string name="tryst_proposition_taken">La cita esta tomada</string>
+    <string name="tryst_proposition_not_taken">La cita esta todavi disponible</string>
+    <string name="tryst_proposition_no_friend">Quisera que me acompanaras!</string>
+    <string name="tryst_proposition_friend">el amigo(la amiga) es %s.</string>
+    <string name="tryst_proposition_subject">CitasPiscina Proposicion</string>
+    <string name="send_proposition">Mande la proposicion via</string>
+    <string name="hide_subtitle">Esconda el subtitular</string>
+    <string name="show_subtitle">Mostre el subtitular</string>
+</resources>
